@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio do Urso</title>
+    <link rel="stylesheet" href="./css/urso.css">
+</head>
+<body>
+    <div id="divTempo"></div>
+    
+    <!-- PRELOAD DAS IMAGENS-->
+    <img src="./img/parado.png" style="display: none;">
+    <img src="./img/direita.png" style="display: none;">
+    <img src="./img/esquerda.png" style="display: none;">
+
+    <!-- Urso -->
+    <img src="./img/parado.png" id="img-urso">
+    <br>
+
+    <button type="button" id="button" onclick="pararUrso()">Parar Urso</button>
+    
+    
+    
+    <script src="https://code.jquery.com/jquery-3.6.2.slim.min.js" integrity="sha256-E3P3OaTZH+HlEM7f1gdAT3lHAn4nWBZXuYe89DFg2d0=" crossorigin="anonymous"></script>
+    <script src="./js/urso.js"></script>
+</body>
+</html>

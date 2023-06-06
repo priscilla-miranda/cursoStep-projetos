@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(../img/2fi0_7bl1_210505\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+}
+
+#img-urso{
+    height: 150px;
+    margin-top: 450px;
+    margin-left: 420px;
+    
+
+}
