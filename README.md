@@ -1,2 +1,2 @@
-# cursoStep-projetos
- Material do Curso de JavaScript - Step Computer Academy
+# Projetos
+ Material do Curso de JavaScript 
